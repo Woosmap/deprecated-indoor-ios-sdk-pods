@@ -8,3 +8,4 @@ Example Podfile:
 	source 'https://github.com/sanginfolbs/intripperpod.git'
 	platform :ios, '9.0'
 	pod 'IntripperSDK'
+	pod 'GoogleMaps'
